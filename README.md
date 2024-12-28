@@ -55,6 +55,6 @@
 ## Demo Proyek
 
 <ul>
-  <li>Github: <a href="https://github.com/GibranRamadhannn/UTS_PBO1_TIFK23A_23552011200">Github</a></li>
+  <li>Github: <a href="https://github.com/GibranRamadhannn/UTS_PBO1_TIFK23A_23552011200/tree/master">Github</a></li>
   <li>Youtube: <a href="https://youtu.be/SGbp_Y9nJSk">Youtube</a></li>
 </ul>
